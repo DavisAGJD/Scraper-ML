@@ -1,0 +1,22 @@
+{
+  "name": "scraperx",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "scraper",
+    "playwright",
+    "web-scraping"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "description": "ScraperX - Web Scraper Dashboard con Node.js y Playwright",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "playwright": "^1.58.2"
+  }
+}
